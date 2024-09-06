@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hello, I'm Mohamed Al-Ghazali!<br><br>I'm a full-stack developer with expertise in **PHP**, **Laravel**, and **SQL databases**. I'm currently building exciting projects in **mobile development** using **Flutter** and **React Native**.<br><br>![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)<br><br>🚀 About Me<br><br>- 🌍 Based in **Algeria**<br>- 💼 Currently working on **FitForge** – A fitness app designed for gym centers, powered by **Flutter** and **Firebase**<br>- 🔭 Exploring **mobile and desktop** app development with **React Native** and **Flutter**<br>- 🛠 Building an **ERP SaaS product** to streamline business operations<br>- ⚡ Fun fact: I'm a **javelin thrower** with a goal to hit 70 meters!
+ 👋 Hello, I'm Mohamed Al-Ghazali!<br><br>I'm a full-stack developer with expertise in **PHP**, **Laravel**, and **SQL databases**. I'm currently building exciting projects in **mobile development** using **Flutter** and **React Native**.<br><br>![Profile Views](https://komarev.com/ghpvc/?username=Mellaoui&color=brightgreen)<br><br>🚀 About Me<br><br>- 🌍 Based in **Algeria**<br>- 💼 Currently working on **FitForge** – A fitness app designed for gym centers, powered by **Flutter** and **Firebase**<br>- 🔭 Exploring **mobile and desktop** app development with **React Native** and **Flutter**<br>- 🛠 Building an **ERP SaaS product** to streamline business operations<br>- ⚡ Fun fact: I'm a **javelin thrower** with a goal to hit 70 meters!
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mellaoui&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
